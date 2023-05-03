@@ -1,4 +1,4 @@
-                                                             #How to predict a single stock buying signal 
+#                                                     How to predict a single stock buying signal 
 ### The Stock market process is full of uncertainty. The price is affected by many factors. However, the Stock market prediction is one of the important factors in finance and business.The goal of this project is to analyze the google company historical stock data in Python, build a machine learning model to predict the google stock buying signal. The model can be an indicator for the investor to decide whether to buy or not. It is beneficial for companies and individuals to make proper investment decisions
 ## 1.Data Collecting
 ### Kaggle is the world's largest data science community with powerful tools and resources. From Kaggle, We collected this sufficient size of dataset to build a good predictor model. Here is the link of the data source: https://www.kaggle.com/datasets/dgawlik/nyse
